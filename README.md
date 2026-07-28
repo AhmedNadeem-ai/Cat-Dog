@@ -1,6 +1,6 @@
 # Cat & Dog Object Detector
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cat-dog-detector-ahmed.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cat-dog-detection.streamlit.app/)
 
 A Streamlit web application powered by YOLO for detecting cats and dogs in uploaded images.
 
