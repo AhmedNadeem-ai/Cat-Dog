@@ -1,0 +1,11 @@
+# Relative path to the dataset folder root
+path: ./dataset
+
+# Subdirectories relative to path
+train: images/train
+val: images/val
+
+# Define class IDs and names
+names:
+  0: cat
+  1: dog
