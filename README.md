@@ -50,5 +50,10 @@ Cat-Dog/
    ```
 
    ---
-   
-This project was developed for the course **AI271 - Programming for Artificial Intelligence** at **UMT**. 
+
+## Academic Context
+
+This project was developed for the course **AI271L - Programming for Artificial Intelligence Lab** at **UMT**. 
+
+* **Objective:** Build a functional application that incorporates Artificial Intelligence.
+* **Term:** Spring 2025 — 4th Semester
