@@ -34,3 +34,15 @@ Cat-Dog/
 ![Detection Result 1](assets/screenshot-result.png)
 
 ![Detection Result 2](assets/screenshot-result2.png)
+
+## How to Run Locally
+
+1. Open your terminal in the project root directory.
+2. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the Streamlit web application:
+   ```bash
+   streamlit run main.py
+   ```
