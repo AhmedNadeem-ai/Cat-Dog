@@ -46,3 +46,7 @@ Cat-Dog/
    ```bash
    streamlit run main.py
    ```
+
+   ---
+   
+This project was developed for the course **AI271 - Programming for Artificial Intelligence** at **UMT**. 
