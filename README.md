@@ -8,10 +8,6 @@ A Streamlit web application powered by YOLO for detecting cats and dogs in uploa
 
 ```text
 Cat-Dog/
-├── assets/                   # Screenshot images for README
-│   ├── screenshot-home.png
-│   ├── screenshot-result.png
-│   └── screenshot-result2.png
 ├── dataset/                  # Dataset folder (used for local training)
 │   ├── images/               # Image files (.jpg, .png, etc.)
 │   │   ├── train/
